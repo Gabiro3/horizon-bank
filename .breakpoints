@@ -1,0 +1,12 @@
+{
+  "files": {
+    "app/api/sentry-example-api/route.js": [
+      {
+        "id": "3d6b184c-1ce6-4876-95bc-c3486ff1d97b",
+        "line": 8,
+        "version": 1,
+        "index": 219
+      }
+    ]
+  }
+}
